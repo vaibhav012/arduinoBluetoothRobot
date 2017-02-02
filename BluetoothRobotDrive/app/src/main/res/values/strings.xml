@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">V_BOT_DRIVER</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="DecreaseButton">DECREASE</string>
+    <string name="IncreaseButton">INCREASE</string>
+    <string name="ChaneBy150Label">CHANGE BY 50</string>
+    <string name="ConnectionStatusLabel">Connection Status:</string>
+    <string name="SpeedValueLabel">Analog 205</string>
+    <string name="BluetoothDeviceListButton">Bluetooth Device List</string>
+    <string name="DetailsPageButton">Details Page</string>
+    <string name="BluetoothMustBeOnLabel">Bluetooth Must Be On</string>
+    <string name="ConnectionStatus">Medium Text</string>
+    <string name="title_activity_device_list">DeviceList</string>
+    <string name="BackButton">BACK</string>
+    <string name="title_activity_app_working_details">AppWorkingDetails</string>
+    <string name="ConnectionNotTried">Not Yet Tried</string>
+
+</resources>
